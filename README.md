@@ -1,4 +1,4 @@
-## [Demo](react-redux-demo.netlify.com) 
+## [Demo](http://react-redux-demo.netlify.com) 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
